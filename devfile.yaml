@@ -57,6 +57,6 @@ starterProjects:
       remote: origin
       revision: dotnet-8.0
     remotes:
-      origin: https://github.com/redhat-developer/s2i-dotnetcore-ex
+      origin: https://github.com/pepeambrocio/openshiftapp
   name: dopenshiftapp
   subDir: app
